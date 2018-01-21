@@ -18,7 +18,7 @@ class ImageTableSeeder extends Seeder
              "https://videotutoriales.com/maspa/maspa1",
              "https://videotutoriales.com/maspa/maspa2",
              "https://videotutoriales.com/maspa/maspa3",
-             "https://videotutoriales.com/maspa/maspa4",
+             "https://videotutoriales.com/maspa/maspa9",
              "https://videotutoriales.com/maspa/maspa5",
              "https://videotutoriales.com/maspa/maspa6",
              "https://videotutoriales.com/maspa/maspa7",
